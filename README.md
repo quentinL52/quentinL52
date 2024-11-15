@@ -14,8 +14,6 @@
   <h2>About Me</h2>
   <ul>
     <li>I'm a data analyst and passionate about IA.</li>
-    <li>I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.</li>    <li>I'm currently seeking opportunity for a data and IA engineer as an intern.</li>
-    <li>I'm currently focused on a job recommandation project, to match people curriculum with a job offers database.</li>
-    <li>all my project are develloped in python, but i have knowledge in HTML and SQL.</li>
+    <li>I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.</li>
   </ul>
 </div>
