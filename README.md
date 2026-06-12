@@ -13,6 +13,5 @@
   <h2>About Me</h2>
   <ul>
     <li>LLM engineer specialized in agentic AI</li>
-    <li>Currently working on an agentic pre hiring plateform,</li>
   </ul>
 </div>
